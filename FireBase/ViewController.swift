@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    let ref = Firebase(url: "https://chess-27e5c.firebaseio.com/")
+    let ref = Firebase(url: "https://district-ka.firebaseio.com/")
     
     lazy var save = {
         
